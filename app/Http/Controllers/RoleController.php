@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 use Spatie\Permission\Models\Permission;
 use Spatie\Permission\Models\Role;
 
-class RoleContoller extends Controller
+class RoleController extends Controller
 {
     public function __construct()
     {

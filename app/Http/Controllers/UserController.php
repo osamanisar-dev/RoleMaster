@@ -6,7 +6,7 @@ use App\Models\User;
 use Illuminate\Http\Request;
 use Spatie\Permission\Models\Role;
 
-class UserContoller extends Controller
+class UserController extends Controller
 {
     public function __construct()
     {
